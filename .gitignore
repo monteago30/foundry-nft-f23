@@ -14,3 +14,6 @@ docs/
 .env
 broadcast/
 node_modules
+
+# git-command file
+git-commands.txt
